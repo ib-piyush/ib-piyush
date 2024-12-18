@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Piyush Kumar 👋
 
 Welcome to my GitHub profile! I'm a passionate **React.js** and **React Native** developer who loves crafting intuitive and performant web and mobile applications. With expertise across a diverse tech stack, I thrive on solving challenges and bringing ideas to life.
 
