@@ -1,6 +1,12 @@
-# Hi there, I'm Piyush Kumar 👋
+# Hi there, I'm Piyush! 👋
 
 Welcome to my GitHub profile! I'm a passionate **React.js** and **React Native** developer who loves crafting intuitive and performant web and mobile applications. With expertise across a diverse tech stack, I thrive on solving challenges and bringing ideas to life.
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Developer Animation" width="500" />
+</p>
 
 ---
 
@@ -42,9 +48,17 @@ Welcome to my GitHub profile! I'm a passionate **React.js** and **React Native**
 
 ---
 
+## 🎨 My Animated Skills Badge
+
+<p align="center">
+  <img src="https://svgshare.com/i/uGL.svg" alt="Animated Badge" width="500" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
-- **📧 Email**: [your-email@example.com](mailto:piyush@ibarts.in)
+- **📧 Email**: [your-email@example.com](mailto:your-email@example.com)
 - **💼 LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 - **🐦 Twitter**: [twitter.com/yourhandle](https://twitter.com/yourhandle)
 
@@ -54,7 +68,7 @@ Welcome to my GitHub profile! I'm a passionate **React.js** and **React Native**
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
 
